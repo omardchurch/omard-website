@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+  html {
+      font-size: 62.5%;
+  }
+
+  body {
+      background-color: #f5f5f5;
+      color: #2b2b2b;
+      font-size: 3.2rem;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+  }
+
+  .hero {
+      background-color: peachpuff;
+      color:#fff;
+      text-shadow: 2px 2px #000;
+      padding:2.0rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
