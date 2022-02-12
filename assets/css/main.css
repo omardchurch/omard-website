@@ -52,7 +52,7 @@
       }
   }
 
-  @media only screen and (max-width: 728px) {
+  @media only screen and (max-width: 1050px) { /* 728px */
     .hero {
         height: 20rem;
         font-size: 2.0rem;
